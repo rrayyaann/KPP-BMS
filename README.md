@@ -1,5 +1,5 @@
 # KPP-BMS-Tugas-Website
-**KELOMPOK IT13**
+**KELOMPOK 10**
 | Nama | NRP |
 |---------------------------|------------|
 |Muhamad Arrayyan | 5027231014 |
